@@ -11,6 +11,13 @@
 * Global, Users, Chats Top 10 played tracks stats
 * Multi-Language support
 
+
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+</h3>
+
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/FUCKTHEATTITUDE/Ytup"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
 <h4>Click the button below to deploy Yukki on Okteto!</h4>
 <a href="https://cloud.okteto.com/deploy?repository=https://github.com/Gameralpha/YUKIUP"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
 
